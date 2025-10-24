@@ -2,6 +2,6 @@
 
 
 '''
-javascript
+Javascript
 console.log()
 '''
